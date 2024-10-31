@@ -23,6 +23,8 @@ After careful consideration, four questions need to be answered whiuch will be s
 1. What is the overall sales trend performance?
 2. What is the top-performing products?
 3. Which regions are contributing the most overall sales?
+ Other Interesting question:
+4. Which product has the highest quantity sold? 
 
 ### Data Sources
 ---
@@ -59,35 +61,24 @@ In the early stage of cleaning and preparation of data,the following actions wer
 ---
 To solve the problem statement, simple visualizations that summarised the data using excel  SQL Server. Visualization using Power BI.
 
+### Total Sales by Month
+![image](https://github.com/user-attachments/assets/2da80490-9468-4187-9375-b7886e72cb87)
+Analyzing the sales data from 2023 to 2024, we observe a fluctuating trend with significant variations between months. For instance, February 2023 saw the highest sales of ₦546,300, while September 2023 recorded the lowest sales of ₦34,720. This indicates that there are certain periods where sales are significantly higher or lower than average.
+
 ### Total Sales by Product
 ![image](https://github.com/user-attachments/assets/164c88d9-95a7-42a1-a13e-11cdcd1c331a)
-
-# Insight
+Based on the data, Shoes emerge as the top-performing products. Shoes geneated a total Sales of ₦613,380. This reveals that Shoes contributed significantly to the overall sales.
 
 ### Total Sales by Region
 ![image](https://github.com/user-attachments/assets/48bf1d8e-eed4-4330-839a-a1c53cceabf5)
+The South region is the top-performing region, generating the highest revenue of ₦927,820. This is significantly higher than the other regions, indicating its strong market potential.
 
-# Insight
-
-### Total Sales by Month
-![image](https://github.com/user-attachments/assets/2da80490-9468-4187-9375-b7886e72cb87)
-
-
-# Insight
 
 
 ## Other interesting report
 ### Total Sales by Product and Quantity Sold
 ![image](https://github.com/user-attachments/assets/71db1fb4-a3ee-4e68-a18d-66597bad316a)
-
-
-
-
-### Conclusions
- - North East is the strongest performing region.
- - Copiers are the major revenue driver.
- - Ankpa store consistently outperforms others.
- - December and November are peak revenue periods.
+Hats and Shoes have the highest quantities sold, with 1991 and 1987 units sold, their revenue is influenced by lower unit prices compared to Gloves and shoes
 
 ### Recommendations 
   - Expand operations in the North East region.
