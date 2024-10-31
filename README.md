@@ -38,10 +38,12 @@ SalesData.xlsx is the primary source of data used. This is an open source datase
 - Microsoft Excel  [Download
    - [Download Here](https://Microsoft.com)
 1. For Data cleaning
-2. For Analysis
-3. SQL Server For Analysis
-4. Power BI For Visualization
-5. For Creating reports
+2. Use pivot tables to summarize total sales by product, region, and month.
+3. Use Excel formulas to calculate metrics such as average sales per product and 
+   total Sales
+5. SQL Server For Analysis
+6. Power BI For Visualization
+7. For Creating reports
 - GitHub for Portfolio Building
 - 
 
