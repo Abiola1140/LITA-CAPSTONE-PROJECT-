@@ -14,8 +14,8 @@ This data analysis project seeks to provide insights into sales performance of a
 
 ## Problem Statement
 ---
-A leading Nigeria retail company with nationwide presence is experiencing a fluctuations in sales and revenue, wants to know his overall sales performance to identify trends, opportunities, and areas for improvement for revenue generation, strategic decision-making, performance evaluation using sales data from 2023-2024. The stakeholders, as
-a result tasked me as a data analyst to perform a rapid analysis and report.
+A leading Nigeria retail company with nationwide presence is experiencing a fluctuations in sales and revenue, wants to know his overall sales performance to identify trends, opportunities, and areas for improvement for revenue generation, strategic decision-making,performance evaluation using sales data from 2023-2024. The stakeholders, as a result 
+tasked me as a data analyst to perform a rapid analysis and report.
 After careful consideration, four questions need to be answered whiuch will be stated in "Exploratory Data Analysis".
 
 ## Exploratory Data Analysis
@@ -29,7 +29,7 @@ After careful consideration, four questions need to be answered whiuch will be s
 SalesData.xlsx is the primary source of data used. This is an open source dataset, given for the final capstone project
 In the process of the analysis  metrics were added to the dataset using formula which added two columns to the dataset given to solve problem they are:
 1. Average Sales per Product.
-2. Total Sa    jhgdfxhtyuiop-[]=les.
+2. Total Sales.
 
 ### Tools Used
 ---
