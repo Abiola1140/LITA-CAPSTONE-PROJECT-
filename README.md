@@ -1,31 +1,28 @@
 # LITA-CAPSTONE-PROJECT-
-# LITA_WORKSHOP_DOCUMENTATION
+# LITA_WORKSHOP_CAPSTONE PROJECT DOCUMENTATION
 
 # Project Title: Retail Sales Analysis 
 ---
 # Introduction
 ---
-This project is to showcase my data analysis expertise developed in data analytics workshop of 3-months learning using microsoft excel, sql and powerbi.
-This present project is focused on Microsoft excel tool for the whole project. The problem statement is fictional scenario i came up with after studying the dataset.
+This is the final capstone project in data analytics workshop of 3-months learning using microsoft excel, sql and powerbi to showcase my data analysis expertise developed. 
+This present project is focused on Microsoft excel tool, My SQL server for the whole project. The problem statement is fictional scenario i came up with after studying the dataset given for the final project.
 
-## Problem Statement
----
-
-A prestigious retail chain company operating across multiple regions in Nigeria wants to know his sales performance to identify trends, 
-opportunities, and areas for improvement for revenue generation, strategic decision-making, performance evaluation
-and goal setting, using sales data from 2014-2015. The stakeholders, as
-a result tasked me as a data analyst to perform a rapid analysis and report.
-
-   - After careful consideration, four questions need to be answered:
-1. Which region do revenue flourish the most?
-2. Which line of business drives sales?
-3. Which stores outperform others?
-4. what is the peak revenue periods over the last two years?
-   
 ### Project Overview
 ---
 
 This data analysis project seeks to provide insights into sales performance of a retail enterprise over the past two years. By examining different parameters in the given data, we aim to uncover a valuable insights that can inform strategic decision making. Through comprehensive analysis, we will identify patterns, trends, opportunities and challenges within the data, to optimize sales strategies and improve overall sales performance.
+
+## Problem Statement
+---
+
+A leading Nigeria retail company with nationwide presence is experiencing a fluctuations in sales and revenue, wants to know his sales performance to identify trends, 
+opportunities, and areas for improvement for revenue generation, strategic decision-making, performance evaluation using sales data from 2023-2024. The stakeholders, as
+a result tasked me as a data analyst to perform a rapid analysis and report.
+After careful consideration, four questions need to be answered whiuch will be stated in **Exploratory Data Analysis. **
+
+   
+
 
 ### Data Sources
 ---
