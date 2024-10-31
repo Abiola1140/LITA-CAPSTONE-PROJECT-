@@ -27,10 +27,13 @@ After careful consideration, four questions need to be answered whiuch will be s
 2. What is the top-performing products?
 3. Which regions are contributing the most overall sales?
 
-   ### Data Sources
+### Data Sources
 ---
 
 SalesData.xlsx is the primary source of data used. This is an open source dataset, given for the final capstone project
+In the process of the analysis  metrics were added to the dataset using formula which added two columns to the dataset given to solve problem they are:
+1. Average Sales per Product.
+2. Total Sales.
 
 ### Tools Used
 ---
@@ -60,31 +63,29 @@ In the early stage of cleaning and preparation of data,the following actions wer
 ---
 To solve the problem statement, simple visualizations that summarised the data using excel  SQL Server. Visualization using Power BI.
 
-### Revenue by Region
-![image](https://github.com/user-attachments/assets/8a595542-6c02-49d8-809d-429b34f91aab)
+### Total Sales by Product
+![image](https://github.com/user-attachments/assets/164c88d9-95a7-42a1-a13e-11cdcd1c331a)
 
-### North East region have the most flourish revenue with over #12.49bn.
+# Insight
 
-Since the company want to identify the sales performance by geographical region, I had to examine the regions to know the region with the highest revenue and that is North East Region with over  #12.49bn while the less flourish region is North Central with the value of ₦4.32bn.
+### Total Sales by Region
+![image](https://github.com/user-attachments/assets/48bf1d8e-eed4-4330-839a-a1c53cceabf5)
 
-### Line of Business by Units Sold
-![image](https://github.com/user-attachments/assets/5f8a9275-dcfd-4e1d-b698-c450a8870edb)
+# Insight
 
-### Line of business copier Sales is the primary driver of sales. 
-Based on the provided chart, copier sales significantly outsells the other product lines, making it the contributor to overall sales. while Printer sales is the lowest number of unit sold among all product lines.
+### Total Sales by Month
+![image](https://github.com/user-attachments/assets/2da80490-9468-4187-9375-b7886e72cb87)
 
-### Top 10 store by Revenue
-![image](https://github.com/user-attachments/assets/b38f6501-5fc9-4b1c-bb1d-fe2820aac5ac)
 
-### Ankpa stores outperform others out of the top 10.
-Ankpa stands out as the clear leader with a revenue of #1.71bn, significantly outperforming the rest of the stores while Ajaokuta and Arochuckwu follow closely behind with revenues of
-#1.4bn each. The less performimg store is Askira/Uba with the value of #0.90bn.
+# Insight
 
-### Revenue by Month
-![image](https://github.com/user-attachments/assets/9b91fb86-0a1c-4b6c-9275-f16710bd1ebf)
 
-### The peak revenue periods over the past two years were December and November.
-The month of December consistently experienced the highest sales levels in both 2014 and 2015. Further findings also shows there is a significant increase revenue, particularly in November 2015.
+## Other interesting report
+### Total Sales by Product and Quantity Sold
+![image](https://github.com/user-attachments/assets/71db1fb4-a3ee-4e68-a18d-66597bad316a)
+
+
+
 
 ### Conclusions
  - North East is the strongest performing region.
