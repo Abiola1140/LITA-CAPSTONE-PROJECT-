@@ -63,8 +63,7 @@ To solve the problem statement, simple visualizations that summarised the data u
 
 ### Total Sales by Month
 ![image](https://github.com/user-attachments/assets/2da80490-9468-4187-9375-b7886e72cb87)
-Analyzing the sales data from 2023 to 2024, we observe a fluctuating trend with significant variations between months. For instance, February 2023 saw the highest sales of ₦546,300, while September 2023 recorded the lowest sales of ₦34,720. This indicates that there are certain periods where sales are significantly higher or lower than average.
-
+Analyzing the sales data from 2023 to 2024, we observe a fluctuating trend with significant variations between months. Sales exhibit significant seasonal fluctuations, with peaks in February and July and dips in March, April, September, and December. This shows sales fluctuates between months, indicating the need for a flexible sales strategy.
 ### Total Sales by Product
 ![image](https://github.com/user-attachments/assets/164c88d9-95a7-42a1-a13e-11cdcd1c331a)
 Based on the data, Shoes emerge as the top-performing products. Shoes geneated a total Sales of ₦613,380. This reveals that Shoes contributed significantly to the overall sales.
@@ -73,15 +72,15 @@ Based on the data, Shoes emerge as the top-performing products. Shoes geneated a
 ![image](https://github.com/user-attachments/assets/48bf1d8e-eed4-4330-839a-a1c53cceabf5)
 The South region is the top-performing region, generating the highest revenue of ₦927,820. This is significantly higher than the other regions, indicating its strong market potential.
 
-
-
 ## Other interesting report
 ### Total Sales by Product and Quantity Sold
 ![image](https://github.com/user-attachments/assets/71db1fb4-a3ee-4e68-a18d-66597bad316a)
 Hats and Shoes have the highest quantities sold, with 1991 and 1987 units sold, their revenue is influenced by lower unit prices compared to Gloves and shoes
 
 ### Recommendations 
-  - Expand operations in the North East region.
-  - Increase copier product offerings and distribution.
-  - Analyze Ankpa's success and replicate its strategies in other stores.
-  - Prepare for peak seasons (Nov-Dec) with adequate product availability, customer service, and promotions.
+To address the fluctuations in sales and revenue, suggest the company should:
+
+  - Implement targeted marketing campaigns during peak seasons(February and July) to capitalize on increased demand and offer promotions or discounts during slows periods (March, April, 
+    September, and December) to stimulate sales.
+  - Prioritize marketing and inventory management for top-performing products like Gloves and Shoes, and explore product bundling opportunities.
+  - Invest in high-performing regions whict is the South region, and conduct a deeper analysis to identify specific growth opportunities.
