@@ -16,7 +16,7 @@ This data analysis project seeks to provide insights into sales performance of a
 ## Problem Statement
 ---
 
-A leading Nigeria retail company with nationwide presence is experiencing a fluctuations in sales and revenue, wants to know his sales performance to identify trends, 
+A leading Nigeria retail company with nationwide presence is experiencing a fluctuations in sales and revenue, wants to know his overall sales performance to identify trends, 
 opportunities, and areas for improvement for revenue generation, strategic decision-making, performance evaluation using sales data from 2023-2024. The stakeholders, as
 a result tasked me as a data analyst to perform a rapid analysis and report.
 After careful consideration, four questions need to be answered whiuch will be stated in "Exploratory Data Analysis".
@@ -30,7 +30,7 @@ After careful consideration, four questions need to be answered whiuch will be s
    ### Data Sources
 ---
 
-Data Sales.xlsx is the primary source of data used. This is an open source dataset, readily available on platforms like kaggle, entails information about each made by the company
+SalesData.xlsx is the primary source of data used. This is an open source dataset, given for the final capstone project
 
 ### Tools Used
 ---
@@ -39,23 +39,26 @@ Data Sales.xlsx is the primary source of data used. This is an open source datas
    - [Download Here](https://Microsoft.com)
 1. For Data cleaning
 2. For Analysis
-3. For Visualization
-4. For Creating reports
+3. SQL Server For Analysis
+4. Power BI For Visualization
+5. For Creating reports
 - GitHub for Portfolio Building
+- 
 
 ### Data Cleaning and Preparations
 ---
 
 In the early stage of cleaning and preparation of data,the following actions were performed:
 
-- Loading of data into excel.
-- Imputing missing data.
-- Cleaning and formatting of data.
+- Loading/importing of data into excel and SQL Server
+- Data Cleaning (Removing Duplicate data) and formatting of data.
 
 
 ### Data Analysis/Visualization
 ---
-To solve the problem statement, simple visualizations was used to analyze or summarised the data.
+To solve the problem statement, simple visualizations summarised the data using excel and SQL Server.
+1. Using Excel
+2. 
 
 ### Revenue by Region
 ![image](https://github.com/user-attachments/assets/8a595542-6c02-49d8-809d-429b34f91aab)
