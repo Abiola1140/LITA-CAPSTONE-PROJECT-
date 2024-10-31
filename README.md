@@ -1,4 +1,4 @@
-# LITA-CAPSTONE-PROJECT-
+# LITA-CAPSTONE-PROJECT
 # LITA_WORKSHOP_CAPSTONE PROJECT DOCUMENTATION
 
 # Project Title: Retail Sales Analysis 
@@ -56,9 +56,7 @@ In the early stage of cleaning and preparation of data,the following actions wer
 
 ### Data Analysis/Visualization
 ---
-To solve the problem statement, simple visualizations summarised the data using excel and SQL Server.
-1. Using Excel
-2. 
+To solve the problem statement, simple visualizations that summarised the data using excel  SQL Server and dashboard using Power BI.
 
 ### Revenue by Region
 ![image](https://github.com/user-attachments/assets/8a595542-6c02-49d8-809d-429b34f91aab)
